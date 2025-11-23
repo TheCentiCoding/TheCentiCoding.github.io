@@ -1,1 +1,3 @@
 # TheCentiCoding.github.io
+
+YOU ACTUALLY READ THIS HAHAHA SUCKER

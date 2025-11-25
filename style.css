@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    background: #dce7ff;
+    background: #707070;
 }
 
 /* Navbar */
@@ -26,7 +26,15 @@ nav a:hover {
 
 /* Headings */
 h1 {
-    color: #222;
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+p {
+    color: #ffffff;
 }
 
 /* Buttons */

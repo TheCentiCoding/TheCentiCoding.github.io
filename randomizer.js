@@ -16,4 +16,4 @@
 
   const randomSentence = sentences[Math.floor(Math.random() * sentences.length)];
 
-  document.getElementById("sentence").textContent = randomSentence;
+  document.getElementById("splash").textContent = randomSentence;

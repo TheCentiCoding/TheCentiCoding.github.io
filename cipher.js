@@ -8,12 +8,12 @@ if (encodebutton && decoded) {
   encodebutton.addEventListener("commitEncode", () => {
       encoded.textContent = decoded.value;
       document.getElementById("encodeLog").textContent = "Encoded!";
-    }
+    });
 }
 
 if (decodebutton && encoded) {
   decodebutton.addEventListener("commitDecode", () => {
       decoded.textContent = encoded.value;
       document.getElementById("decodeLog").textContent = "Decoded!";
-    }
+    });
 }

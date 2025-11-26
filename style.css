@@ -52,12 +52,13 @@ button:hover {
     background: #005fcc;
 }
 
-/* Form */
-input {
-    padding: 6px;
-    width: 250px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+/* Encoder & Decoder */
+#encoded {
+    width: 70%;
+}
+
+#decoded {
+    width: 70%;
 }
 
 /* Borders */

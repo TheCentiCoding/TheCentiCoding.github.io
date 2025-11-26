@@ -26,7 +26,16 @@ nav a:hover {
 
 /* Headings */
 h1 {
-    color: #222;
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+/* Paragraphs */
+p {
+    color: #ffffff;
 }
 
 /* Buttons */

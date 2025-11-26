@@ -2,7 +2,7 @@ body {
     font-family: "Montserrat", sans-serif;
     margin: 20px;
     padding: 20px;
-    background: #96a3ff;
+    background: #ccd2ff;
 }
 
 /* Navbar */
@@ -26,16 +26,16 @@ nav a:hover {
 
 /* Headings */
 h1 {
-    color: #ffffff;
+    color: #000000;
 }
 
 h2 {
-    color: #ffffff;
+    color: #000000;
 }
 
 /* Paragraphs */
 p {
-    color: #ffffff;
+    color: #000000;
 }
 
 /* Buttons */

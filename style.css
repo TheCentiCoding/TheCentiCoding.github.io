@@ -64,7 +64,7 @@ button:hover {
 }
 
 .btn {
-  display: inline-block;
+  display: block;
   padding: 10px 20px;
   background-color: #4d62ff;
   color: white;

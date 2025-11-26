@@ -66,10 +66,12 @@ button:hover {
 .btn {
   display: inline-block;
   padding: 10px 20px;
-  background-color: blue;
+  background-color: #4d62ff;
   color: white;
   text-decoration: none;
   border-radius: 5px;
+  width: fit-content;
+  margin: 20px auto;   /* auto centers it */
 }
 
 

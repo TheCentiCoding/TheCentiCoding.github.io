@@ -55,10 +55,12 @@ button:hover {
 /* Encoder & Decoder */
 #encoded {
     width: 70%;
+    margin: 0 auto;
 }
 
 #decoded {
     width: 70%;
+    margin: 0 auto;
 }
 
 /* Borders */

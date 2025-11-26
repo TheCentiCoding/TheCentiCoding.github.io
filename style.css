@@ -74,4 +74,9 @@ button:hover {
   margin: 20px auto;   /* auto centers it */
 }
 
+.showcase {
+  margin: 0 auto;
+  width: fit-content; /* optional */
+}
+
 

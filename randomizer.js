@@ -42,6 +42,8 @@
     "Now with more bugs!",
     "Check steam!",
     "We make art!",
+    "Skibidi dop dop yes yes",
+    "1 John 5:19!",
   ];
 
   const randomSentence = sentences[Math.floor(Math.random() * sentences.length)];

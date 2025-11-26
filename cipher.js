@@ -1,19 +1,8 @@
-let keyLetter = "m";
-const encodebutton = document.getElementById("encodets");
-const decodebutton = document.getElementById("decodets");
-const encoded = document.getElementById("encoded");
-const decoded = document.getElementById("decoded");
+const btn = document.getElementById("helloBtn");
+const msg = document.getElementById("message");
 
-if (encodebutton && decoded) {
-  encodebutton.addEventListener("commitEncode", () => {
-      encoded.textContent = decoded.value;
-      document.getElementById("encodeLog").textContent = "Encoded!";
-    });
-}
-
-if (decodebutton && encoded) {
-  decodebutton.addEventListener("commitDecode", () => {
-      decoded.textContent = encoded.value;
-      document.getElementById("decodeLog").textContent = "Decoded!";
+if (btn && msg) {
+    btn.addEventListener("click", () => {
+        msg.textContent = "Halo! Kamu baru saja menekan tombol 🎉";
     });
 }

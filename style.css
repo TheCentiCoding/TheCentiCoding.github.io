@@ -74,19 +74,21 @@ button:hover {
   width: fit-content; /* optional */
 }
 
-/* Gallery */
-div.gallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  
-}
 
 /* Border */
 .border {
   padding: 10px;
   margin: 10px;
   background-color: #a8b2ff;
+}
+
+
+/* Gallery */
+div.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  
 }
 
 div.gallery-item {

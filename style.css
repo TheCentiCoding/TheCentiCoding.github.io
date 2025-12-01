@@ -52,16 +52,11 @@ button:hover {
     background: #005fcc;
 }
 
-/* Encoder & Decoder */
 .centeredButton {
     display: block;
     margin: 20px auto;
 }
 
-/* Borders */
-.box {
-  border: 3px solid white;
-}
 
 .btn {
   display: block;

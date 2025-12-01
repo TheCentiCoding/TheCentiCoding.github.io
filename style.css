@@ -87,6 +87,13 @@ div.gallery {
   
 }
 
+/* Border */
+.border {
+  padding: 10px;
+  margin: 10px;
+  background-color: #c6d6fa;
+}
+
 div.gallery-item {
   margin: 5px;
   border: 1px solid #ccc;

@@ -44,6 +44,19 @@
     "We make art!",
     "Skibidi dop dop yes yes",
     "1 John 5:19!",
+    "RubyRubyRubyRuby!",
+    "February 11th!",
+    "You are all banned!",
+    "This is a rare message. Or is it?",
+    "You actually found this?",
+    "Add me on Steam!",
+    "Hello everybody, my name is Welcome!",
+    "He looks so Portuguese!",
+    "Yeah!",
+    "Published by Based Department!",
+    "You might be using Mobile Data right now!",
+    "Masterful gambit, sir!",
+    "To the Gambling Dimension!",
   ];
 
   const randomSentence = sentences[Math.floor(Math.random() * sentences.length)];

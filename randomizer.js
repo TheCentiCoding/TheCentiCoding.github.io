@@ -57,6 +57,8 @@
     "You might be using Mobile Data right now!",
     "Masterful gambit, sir!",
     "To the Gambling Dimension!",
+    "Shaw!",
+    "Poshanka!",
   ];
 
   const randomSentence = sentences[Math.floor(Math.random() * sentences.length)];
